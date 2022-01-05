@@ -1,0 +1,16 @@
+metadata:
+  toc-title: "Table of Contents"
+  title: "Document"
+toc: true
+toc-depth: 3
+from: markdown
+to: html
+number-sections: false
+strip-comments: true
+section-divs: true
+standalone: true
+self-contained: true
+filters:
+  - filters/fennel-loader.lua
+
+

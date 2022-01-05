@@ -1,0 +1,13 @@
+metadata:
+  toc-title: "Table of Contents"
+  mainfont: Carlito
+toc: true
+toc-depth: 3
+pdf-engine: lualatex
+from: markdown-implicit_figures
+number-sections: false
+strip-comments: true
+section-divs: true
+highlight-style: haddock
+filters:
+  - filters/fennel-loader.lua
