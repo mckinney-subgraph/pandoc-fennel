@@ -22,7 +22,7 @@ using Pandoc in general, such as:
 ## Installation and usage
 
 It is assumed that you have installed the correct LaTeX dependencies
-for your operation systems as well as Pandoc and make.
+for your operation system as well as `pandoc` and `make`.
 
 If this is true, just clone this repository.
 
@@ -30,6 +30,8 @@ Run the following command for a help menu of assorted options:
 ```
 $ make
 ```
+
+Built files will appear in the `build` directory.
 
 ## Writing filters
 
